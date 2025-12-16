@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "MISIA - Everything （Official HD Music Video）",
+  "base_artist": "MISIA",
+  "createdAt": "2025-12-16T16:44:01.594930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "MISIA - 逢いたくていま（Official Music Video）",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/01_MISIA_-_逢いたくていま(Official_Music_Video)_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Misia A Misia B",
+      "artist": "Piosenki dla dzieci",
+      "has_synced": false,
+      "path": "select/02_Misia_A_Misia_B_Piosenki_dla_dzieci.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DEEPNESS(MISIA 星空のライヴVII@日本武道館)",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/03_DEEPNESS(MISIA_星空のライヴVII@日本武道館)_MISIA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋は終わらないずっと(MISIA 星空のライヴVII@日本武道館)",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/04_恋は終わらないずっと(MISIA_星空のライヴVII@日本武道館)_MISIA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lovin' You (MISIA 1999 LIVE VERSION)",
+      "artist": "MISIA",
+      "has_synced": true,
+      "path": "select/05_Lovin'_You_(MISIA_1999_LIVE_VERSION)_MISIA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Piosenka o podrywie na misia",
+      "artist": "Artur Andrus",
+      "has_synced": false,
+      "path": "select/06_Piosenka_o_podrywie_na_misia_Artur_Andrus.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Misia Života",
+      "artist": "Vec",
+      "has_synced": true,
+      "path": "select/07_Misia_Života_Vec.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DEEPNESS(MISIA 星空のライヴVII@日本武道館)",
+      "artist": "米希亞",
+      "has_synced": false,
+      "path": "select/08_DEEPNESS(MISIA_星空のライヴVII@日本武道館)_米希亞.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't stop music! - THE TOUR OF MISIA 2003 KISS IN THE SKY IN SAPPORO DOME",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/09_Don't_stop_music!_-_THE_TOUR_OF_MISIA_2003_KISS_IN_THE_SKY_IN_SAPPORO_DOME_MISIA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "05 - Fado do retorno (feat Misia)",
+      "artist": "Agnès Jaoui",
+      "has_synced": false,
+      "path": "select/10_05_-_Fado_do_retorno_(feat_Misia)_Agnès_Jaoui.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DEEPNESS(MISIA 星空のライヴVII@日本武道館)",
+      "artist": "米希亚",
+      "has_synced": false,
+      "path": "select/11_DEEPNESS(MISIA_星空のライヴVII@日本武道館)_米希亚.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fado do retorno(avec Misia)",
+      "artist": "Agnès Jaoui",
+      "has_synced": false,
+      "path": "select/12_Fado_do_retorno(avec_Misia)_Agnès_Jaoui.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BELIEVE (MISIA SOUL JAZZ SESSION Ver.)",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/13_BELIEVE_(MISIA_SOUL_JAZZ_SESSION_Ver.)_MISIA.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Era de maggio (feat. Misia)",
+      "artist": "Passione Tour",
+      "has_synced": false,
+      "path": "select/14_Era_de_maggio_(feat._Misia)_Passione_Tour.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everything",
+      "artist": "MISIA",
+      "has_synced": false,
+      "path": "select/pl_01_Everything_MISIA.txt"
+    }
+  ]
+}
